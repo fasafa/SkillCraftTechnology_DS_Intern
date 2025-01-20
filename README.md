@@ -1,4 +1,4 @@
-# UnifiedMentor Data Science Internship Project
+# SkillCraftTechnology Data Science Internship Project
 
 # Project Overview
 This repository contains my data science internship project at Unified Mentor Pvt Ltd. The project focuses on data analysis, and visualization to gain insights from a dataset provided during the internship.
