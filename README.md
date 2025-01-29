@@ -1,7 +1,7 @@
 # SkillCraftTechnology Data Science Internship Project
 
 # Project Overview
-This repository contains my data science internship project at Unified Mentor Pvt Ltd. The project focuses on data analysis, and visualization to gain insights from a dataset provided during the internship.
+This repository contains my data science internship project at SkillCraftTechnology. The project focuses on data analysis, and visualization to gain insights from a dataset provided during the internship.
 
 # Task1_SkillCraft_internship
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population
